@@ -9,7 +9,7 @@
 - Metodos (los que están en notion)
 - Template Literals
 
-## Numeros
+## Números
 - Operaciones
 - Incremento y decremento
 - Objeto Math
